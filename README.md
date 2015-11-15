@@ -3,7 +3,7 @@
 
 Trump is a very simple programming language interpreter and static
 type analyser that I used to illustrate my talk
-[Softly, Softly Typing](http://rubyconf.org/program) at
+[Softly, Softly Typing](http://rubyconf.org/program#prop_1295) at
 [Rubyconf 2015](http://rubyconf.org/). The language consists of
 numbers and functions which can both be assigned to variables, and of
 a strange keywork `Maybe` that simulates runtime uncertainty.
